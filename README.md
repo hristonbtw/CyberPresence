@@ -1,7 +1,7 @@
 # hriston-rich-presence
 
 # Скачать
-https://github.com/hristonbtw/hriston-rich-presence/raw/main/Hriston-Rich-Presence-v0.02.rar
+https://github.com/hristonbtw/hriston-rich-presence/raw/main/hriston-rich-presence.rar
 
 # Что хочу добавить
 — Примеры ✅ <br>
