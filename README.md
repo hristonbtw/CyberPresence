@@ -1,5 +1,5 @@
 # Скачать
-https://github.com/hristonbtw/hriston-rich-presence/raw/main/hriston-rich-presence.rar
+https://github.com/hristonbtw/CyberPresence/raw/main/CyberPresence%200.07.rar
 
 # Что хочу добавить
 
