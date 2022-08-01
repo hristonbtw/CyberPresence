@@ -1,5 +1,5 @@
 # Скачать
-https://github.com/hristonbtw/CyberPresence/raw/main/CyberPresence%200.07.rar
+https://github.com/hristonbtw/CyberPresence/raw/main/CyberPresence.rar
 
 # Что хочу добавить
 
